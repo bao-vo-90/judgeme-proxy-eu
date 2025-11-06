@@ -1,0 +1,20 @@
+{
+  "name": "judgeme-proxy-eu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bao-vo-90/judgeme-proxy-eu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bao-vo-90/judgeme-proxy-eu/issues"
+  },
+  "homepage": "https://github.com/bao-vo-90/judgeme-proxy-eu#readme",
+  "description": ""
+}
