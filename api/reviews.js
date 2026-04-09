@@ -1,6 +1,6 @@
 export default async function handler(req, res) {
-  const API_TOKEN = process.env.JUDGE_ME_API_TOKEN;
-  const SHOP_DOMAIN = process.env.SHOP_DOMAIN;
+  const API_TOKEN = process.env.JUDGE_ME_API_TOKEN_EU;
+  const SHOP_DOMAIN = process.env.SHOP_DOMAIN_EU;
 
   if (!API_TOKEN || !SHOP_DOMAIN) {
     return res.status(500).json({ error: 'Missing environment variables' });
